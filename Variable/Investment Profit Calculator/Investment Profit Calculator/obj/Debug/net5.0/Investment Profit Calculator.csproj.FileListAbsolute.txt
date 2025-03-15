@@ -1,0 +1,16 @@
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.exe
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.deps.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.runtimeconfig.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.runtimeconfig.dev.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\ref\Investment Profit Calculator.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\bin\Debug\net5.0\Investment Profit Calculator.pdb
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.csproj.AssemblyReference.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.AssemblyInfoInputs.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.AssemblyInfo.cs
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.csproj.CoreCompileInputs.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\ref\Investment Profit Calculator.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.pdb
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Variable\Investment Profit Calculator\Investment Profit Calculator\obj\Debug\net5.0\Investment Profit Calculator.genruntimeconfig.cache
