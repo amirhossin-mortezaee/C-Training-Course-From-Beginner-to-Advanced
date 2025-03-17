@@ -1,0 +1,16 @@
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.exe
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.deps.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.runtimeconfig.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.runtimeconfig.dev.json
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\ref\TryCatchExample.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\bin\Debug\net5.0\TryCatchExample.pdb
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.csproj.AssemblyReference.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.AssemblyInfoInputs.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.AssemblyInfo.cs
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.csproj.CoreCompileInputs.cache
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\ref\TryCatchExample.dll
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.pdb
+G:\Project\C-Training-Course-From-Beginner-to-Advanced\Error Handling\TryCatchExample\TryCatchExample\obj\Debug\net5.0\TryCatchExample.genruntimeconfig.cache
